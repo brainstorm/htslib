@@ -39,6 +39,7 @@ DEALINGS IN THE SOFTWARE.  */
 #include <time.h>
 #include <sys/stat.h>
 #include <assert.h>
+#include <unistd.h>
 
 #include "htslib/hts.h"
 #include "htslib/bgzf.h"
